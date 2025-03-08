@@ -1,0 +1,18 @@
+{
+  "name": "contact",
+  "version": "1.0.0",
+  "description": "contactapp",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "yonathan",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "validator": "^13.5.2",
+    "yargs": "^17.7.2"
+  },
+  "keywords": []
+}
